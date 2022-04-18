@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "562d01f3-110f-4881-8f2d-4b1685a4923d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 6,
+  "height": 7,
+  "platformSettings": {},
+  "subMetas": {
+    "Mobile - Flappy Bird - Version 12 Sprites_52": {
+      "ver": "1.0.4",
+      "uuid": "12ba36d6-71d3-43de-acb7-6bd595ee22bb",
+      "rawTextureUuid": "562d01f3-110f-4881-8f2d-4b1685a4923d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 6,
+      "height": 7,
+      "rawWidth": 6,
+      "rawHeight": 7,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
